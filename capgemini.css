@@ -1,0 +1,210 @@
+body {
+    min-width: 320px;
+    font: 1rem/1.56 ubuntu,Verdana,Arial,sans-serif;
+    letter-spacing: .2px;
+    color: #2b0a3d;
+    overflow-x: hidden;
+    margin: 20px;
+}
+h1{
+    font-size: 50px;
+}
+
+.header-container{
+    padding-top: 24px;
+}
+
+.navbar-items{
+    justify-content: space-between;
+}
+
+.çapgemini-logo-header{
+    height: 36px;
+    width: 162px;
+}
+.nav-item{
+    margin: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 16px 10px 40px 0;
+}
+
+ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.inner p{
+    display: inline;
+  
+		background-color:#ffffff;
+		color: #2b0a3d;
+}
+
+i.fa.fa-chevron-circle-right {
+    color: #fff;
+}
+
+i.fa.fa-chevron-circle-right:hover {
+    color: red;
+}
+.btn-success{
+    
+    color: black;
+    border: none;
+}
+
+.header-logo{
+    order: 3;
+    flex-grow: 2;
+    text-align: right;
+    justify-content: space-between;
+    padding-top: 24px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #0070AD;
+}
+
+.image-top{
+    background-image: url(https://www.capgemini.com/in-en/wp-content/uploads/sites/6/2020/10/DotCom_Banner_1200x350-1.jpg?w=1200&h=350&crop=1);
+    width: 100%;
+    height: 565px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+/* .inside{
+    background: white;
+    padding: 10px;
+    font-size: 22px;
+    display: inline;
+    text-align: left;
+    padding-bottom: 10px;
+    color: #2b0a3d;
+} */
+.image-para{
+    background-color: #ffffff;
+}
+.space{
+    padding: 20px 0;
+}
+
+.section1-image a img{
+    width: 436px;
+    height: 270px;
+    padding: 10px 0 10;
+    
+}
+
+ .btn-outline-primary{
+    border-radius:50px;
+    text-align: center;
+}
+
+.col-image{
+    width: 288;
+    height: 162;
+}
+
+.section4-img img{
+    width: 288;
+    height: 162;
+    background-size: cover;
+    width: 100%;
+}
+.section4{
+    background-color: rgb(48, 0, 48);
+    color: whitesmoke;
+}
+
+.hero_full__title .inside {
+    padding: 10px 0;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+
+.hero_full__title .inside span {
+    color: #2b0a3d;
+}
+.hero_full__title, .hero_full__title a {
+    font: 3.5rem/1.18 ubuntu,Verdana,Arial,sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: 700;
+    font-stretch: normal;
+    font-size: 3.5rem;
+    line-height: 1.18;
+    font-family: ubuntu, Verdana, Arial, sans-serif;
+    font-weight: 700;
+    margin: 0;
+}
+
+.hero_full__title .inside {
+    background: #fff;
+    padding: 7px 0;
+    line-height: 1.4;
+}
+
+.section1{
+    margin: 50px 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #ececec;
+}
+
+.featured-insights-1{
+    background: #ffffff;
+    padding: 30px;
+    margin-bottom: 20px;
+    /* margin-right: 60px; */
+}
+.featured-insights-2{
+    background: #ffffff;
+    /* margin: 20px 0; */
+    
+}
+.featured-insights-3{
+    background: #ffffff;
+    /* margin-top: 20px;
+    margin-left: 20px; */
+    
+}
+
+.section1-image{
+    float: right;
+}
+.featured1-text{
+    color: #000;
+    font: 1rem/1.67 ubuntu,Verdana,Arial,sans-serif;
+    letter-spacing: .2px;
+    margin: 16px 0 24px;
+}
+
+.btn-outline-primary{
+    margin-bottom: 24px;
+    display: inline-block;
+    font: 1rem/1 ubuntu-md,Verdana,Arial,sans-serif;
+    min-width: 195px;
+    border-radius: 100px;
+    text-align: center;
+    white-space: nowrap;
+    transition: all .5s ease;
+    padding: 0 20px;
+    color: #0070ad;
+    border: 1px solid #0070ad;
+    line-height: 48px;
+}
+
+.text-center.featured-btn {
+    margin-top: 20px;
+}
